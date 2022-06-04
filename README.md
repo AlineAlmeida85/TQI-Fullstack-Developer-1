@@ -72,10 +72,6 @@ ______________________________________________________________
 ### [Projeto](https://alinealmeida85.github.io/TQI-Fullstack-Developer-1/)
 
 ______________________________________________________________
-## 🖇️ Pessoas Contribuidoras 🤝
-[<img src="https://avatars.githubusercontent.com/u/99259131?v=4" width=115><br><sub>Aline Melissa Andrade de Almeida</sub>](https://github.com/AlineAlmeida85) 
-
-______________________________________________________________
 ## 🏆 Autor 
 <div align="center">
 
