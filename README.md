@@ -1,72 +1,100 @@
 # TQI Fullstack Developer desafio 1
 
-# 🏁 Tópicos
+### Criando um portfólio
 
- * 👉 Banner
- * 👉 Título e Descrição
- * 👉 Status do Projeto
- * 👉 Funcionalidades
- * 👉 Demonstração da aplicação
- * 👉 Pré-requisitos
- * 👉 Tecnologias utilizadas
- * 👉 Autor
- * 👉 Licença
-
+## 🏁 Tópicos
  
- ____________________________________________________________
-# ✅ Banner 👌
+  * 👉 [Banner](#banner)
+  * 👉 [Título](#título)
+  * 👉 [Descrição](#✒️-descrição)
+  * 👉 [Status](#⏱️-status)
+  * 👉 [Funcionalidades](#🔨-funcionalidades-🛠️)
+  * 👉 [Demonstração](#🚀-demonstração)
+  * 👉 [Pré-requisitos](#📋-pré-requisitos)
+  * 👉 [Tecnologias utilizadas](#⚙️-tecnologias-utilizadas)
+  * 👉 [Acesso ao Projeto](#📁-acesso-ao-projeto)
+  * 👉 [Pessoas Contribuidoras](#🖇️-pessoas-contribuidoras-🤝)
+  * 👉 [Autor](#🏆-autor)
+  * 👉 [Licença](#🙏-licença-🔖) 
+  * 👉 [Conclusão](#📚-conclusão)
+ 
+______________________________________________________________
 
-<h1 align="center">
-  <img alt="banner" title="#banner" src="banner.png" style/>
-</h1>
+## 📷 Banner
+  <p align="center">
+    <img alt="foto do projeto" title="foto do projeto" src="banner.png"/>
+  </p>
 
-# ✅ Título e Descrição 👌
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-### Portfólio
+______________________________________________________________
 
-Criei meu portfólio como finalização do primeiro projeto desse Bootcamp
+## 📌 Título
 
-# ✅ Status do Projeto 👌
+#### Criando um portfólio
 
-🚧 Projeto 🚀 Concluído com Sucesso!!! 👌 🚧
+______________________________________________________________
+## ✒️ Descrição
 
-# ✅ Funcionalidades 👌
+#### Criei meu portfólio como finalização do primeiro projeto desse Bootcamp
 
-Funcionalidades da aplicação:
+______________________________________________________________
+## ⏱️ Status
 
-- [x] Seguir as aulas
-- [x] Utilizar HTML
-- [x] Utilizar CSS
+>   🚀 **Projeto Concluído com Sucesso!!!** 👌 🚧
+
+______________________________________________________________
+## 🔨 Funcionalidades 🛠️
+
+- `1 ` Seguir as aulas ✔️
+- `2 ` Utilizar HTML ✔️
+- `3 ` Utilizar CSS ✔️
+
+______________________________________________________________
+## 🚀 Demonstração 
+
+> 🚧 Em construção 🚧
+
+______________________________________________________________
+## 📋 Pré-requisitos 
+
+- ✔️ Nenhum
+
+______________________________________________________________
+## ⚙️ Tecnologias utilizadas
+
+- [HTML](link)
+- [CSS](link)
 
 
-# ✅ Demonstração da aplicação 👌
+## 📁 Acesso ao Projeto 
 
-GitHub
-AlineAlmeida85
+### [Projeto](https://alinealmeida85.github.io/TQI-Fullstack-Developer-1/)
 
-Link: 
+______________________________________________________________
+## 🖇️ Pessoas Contribuidoras 🤝
+[<img src="https://avatars.githubusercontent.com/u/99259131?v=4" width=115><br><sub>Aline Melissa Andrade de Almeida</sub>](https://github.com/AlineAlmeida85) 
 
-<h1 align="center">
-  <img alt="banner" title="#banner" src="banner.png" style/>
-</h1>
+______________________________________________________________
+## 🏆 Autor 
+<div align="center">
 
-# ✅ Pré-requisitos 👌
+  [<img src="https://avatars.githubusercontent.com/u/99259131?v=4" width=115 style=border-radius:50%><br><sub>Aline Almeida 💝</sub>](https://github.com/AlineAlmeida85) 
 
-Nenhum, basta clicar no link acima
+</div>
 
-# ✅ Tecnologias utilizadas ⚒️ 👌
+______________________________________________________________
+## 🙏 Licença 🔖
 
-As seguintes tecnologias foram usadas na construção do projeto:
+#### Não Possui
+______________________________________________________________
+## 📚 Conclusão 
 
-- [HTML](https://expo.io/)
-- [CSS](https://nodejs.org/en/)
+Treinar mais a estruturação do html e estilização com css e flexbox.
+______________________________________________________________
 
-# ✅ Autor 👌
+⌨️ com ❤️ por [Aline Almeida](https://github.com/AlineAlmeida85) 😊
 
-Aline Almeida 💝
-
-# ✅ Licença
-
-Não Possui
-
-Espero que te agrade! 💝
+Espero que te agrade! 
+ 
+ 
